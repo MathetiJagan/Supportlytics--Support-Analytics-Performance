@@ -84,7 +84,3 @@ The project aims to:
 
 
 ---
-![cs1](https://github.com/springboardmentor1210a/Supportlytics/blob/JagannathReddy/Supportlytics/Image1.png?raw=true)
-![cs2](https://github.com/springboardmentor1210a/Supportlytics/blob/JagannathReddy/Supportlytics/Image2.png?raw=true)
-![cs3](https://github.com/springboardmentor1210a/Supportlytics/blob/JagannathReddy/Supportlytics/Image3.png?raw=true)
-![cs4](https://github.com/springboardmentor1210a/Supportlytics/blob/JagannathReddy/Supportlytics/Image4.png?raw=true)
